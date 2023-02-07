@@ -1,0 +1,30 @@
+img{
+    max-height: 50px;
+}
+
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #1f2937;
+    color: white;
+}
+
+.nav {
+   display: flex;
+   justify-content:space-between;
+   align-items: center;
+   padding: 15px 200px; 
+}
+
+.header-links {
+    display: flex;
+    gap: 25px;
+}
+
+a{
+    color: white;
+}
